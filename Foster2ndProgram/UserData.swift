@@ -8,7 +8,7 @@ final class UserData : ObservableObject {
     // Published means that any time this value changes, it automatically updates everywhere.
     @Published var counter: Int = 0
     
-    @Published var asdf: String = "asdf" {
+    @Published var asdf: String = "" {
         willSet(banana) {
             print(banana)
         }
