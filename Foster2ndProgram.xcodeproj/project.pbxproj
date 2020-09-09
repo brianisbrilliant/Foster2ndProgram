@@ -17,6 +17,7 @@
 		672A65D4250010AB00897FDF /* Foster2ndProgramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672A65D3250010AB00897FDF /* Foster2ndProgramUITests.swift */; };
 		672A65E22500119600897FDF /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672A65E12500119600897FDF /* UserData.swift */; };
 		672A65E4250019E400897FDF /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672A65E3250019E400897FDF /* ListView.swift */; };
+		67423BFE2509435E0022937B /* Cam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67423BFD2509435E0022937B /* Cam.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		672A65D5250010AB00897FDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		672A65E12500119600897FDF /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		672A65E3250019E400897FDF /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		67423BFD2509435E0022937B /* Cam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				672A65B1250010A900897FDF /* AppDelegate.swift */,
 				672A65B3250010A900897FDF /* SceneDelegate.swift */,
 				672A65B5250010A900897FDF /* ContentView.swift */,
+				67423BFD2509435E0022937B /* Cam.swift */,
 				672A65E3250019E400897FDF /* ListView.swift */,
 				672A65E12500119600897FDF /* UserData.swift */,
 				672A65B7250010AA00897FDF /* Assets.xcassets */,
@@ -278,6 +281,7 @@
 				672A65E4250019E400897FDF /* ListView.swift in Sources */,
 				672A65E22500119600897FDF /* UserData.swift in Sources */,
 				672A65B6250010A900897FDF /* ContentView.swift in Sources */,
+				67423BFE2509435E0022937B /* Cam.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
